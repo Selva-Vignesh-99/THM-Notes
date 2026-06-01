@@ -4,7 +4,7 @@
 - **Difficulty:** Easy
 - **Category:** Fundamentals
 - **CEH v13 Domain:** Introduction to Ethical Hacking
-- **Completed:** in progress
+- **Completed:** 2026-06-01
 
 ## Summary
 Brief intro to what Defensive security is
